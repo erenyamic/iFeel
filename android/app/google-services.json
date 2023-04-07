@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "1072426655053",
+    "firebase_url": "https://ifeel-62452-default-rtdb.firebaseio.com",
+    "project_id": "ifeel-62452",
+    "storage_bucket": "ifeel-62452.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072426655053:android:7b1ad1cb7f1c23f063ab04",
+        "android_client_info": {
+          "package_name": "com.example.ifeel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1072426655053-rlab3n6dsdn1ri08ipg4i8p9h4t5ecov.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ifeel",
+            "certificate_hash": "a4d483bcfa935dc69249e9e2dffd4cbf873b32e5"
+          }
+        },
+        {
+          "client_id": "1072426655053-rv6c6br72mmpmv3dflqfti96qg1v58lg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvvgKIQLVb9wSVEWi4vUbJik-lJdLPkfw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1072426655053-p92jja10qmlvfngdug9qidmsb0rrmrof.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1072426655053-32dmvf9ahh6smfvfsvv3jo1aon6hp5e0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ifeel"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072426655053:android:d76196b4154fb5be63ab04",
+        "android_client_info": {
+          "package_name": "com.reeder.ifeel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1072426655053-r23fqpr9q6fm6jboj6mvmpp7bqfm5nr8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.reeder.ifeel",
+            "certificate_hash": "a4d483bcfa935dc69249e9e2dffd4cbf873b32e5"
+          }
+        },
+        {
+          "client_id": "1072426655053-rv6c6br72mmpmv3dflqfti96qg1v58lg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvvgKIQLVb9wSVEWi4vUbJik-lJdLPkfw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1072426655053-p92jja10qmlvfngdug9qidmsb0rrmrof.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1072426655053-32dmvf9ahh6smfvfsvv3jo1aon6hp5e0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ifeel"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
